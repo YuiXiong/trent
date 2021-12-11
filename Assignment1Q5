@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link href="style.css" type="text/css" rel="stylesheet" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h1 ">form</h1>
+
+    <form>
+    <label> Name</label><br>
+    <input type = "text" placeholder= "Enter name"></input></br>
+    <label> Phone number </label></br>
+    <input type = "number" placeholder= "9xxxxxxx"></input></br>
+    <label> number of people expected </label></br>
+    <input type = "number" placeholder= "0-10"></input></br>
+    <label> Time </label><br>
+    <select>
+      <option value="breakfast">Breakfast</option>
+      <option value="lunch">lunch</option>
+      <option value="dinner">dinner</option>
+    </select><br>
+      <label> Smoking </label><br>
+      <input type="radio" Name= smoker><label>smoker</smoker>
+      <input type="radio" Name= smoker><label> Non-smoker</smoker>
+    </br>
+      <label>Allergy</label><br>
+      <input type ="checkbox"><label>allergy A</label>
+      <input type ="checkbox"><label>allergy B</label>
+      <input type ="checkbox"><label>allergy C</label>
+      <input type ="checkbox"><label>allergy D</label><br>
+      <input type="submit">
+        </form>
+
+    <script src="script.js"></script>
+  </body>
+</html>
