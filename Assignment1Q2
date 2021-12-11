@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link href="style.css" type="text/css" rel="stylesheet" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h1>How to make fried rice</h1>
+    <h3>Summary</h3>
+    <p>
+      Fried rice has been a staple food for many asians. It is usually made with
+      leftover rice from the previous night's dinner. The fancy onces such as
+      abalone and truffle
+    </p>
+    <h3>Ingredients</h3>
+    <ul>
+      <li>left over rice</li>
+      <li>oil</li>
+      <li>garlic</li>
+      <li>shallots</li>
+      <li>eggs</li>
+      <li>mix vegetables</li>
+      <li>salt</li>
+    </ul>
+    <h3>Directions</h3>
+    <ol>
+      <li>heat up your wok</li>
+      <li>once the oil is hot</li>
+      <li>wait for fragrance to boom</li>
+      <li>add in rice and stir</li>
+      <li>rice is coated and push aside</li>
+      <li>beat the adds and edd in</li>
+      <li>stir more</li>
+      <li>add seasoning</li>
+      <li>serve and eat</li>
+    </ol>
+    <script src="script.js"></script>
+  </body>
+</html>
